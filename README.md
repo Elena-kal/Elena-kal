@@ -1,4 +1,4 @@
-Heyo!
+Hey!
 
 I'm Elena, a Bachelor's student with a growing passion for coding. 
 Currently, my focus is on Python and C. Along the way, I've developed an interest in AI and machine learning, and I've completed a few small projects in these areas.
